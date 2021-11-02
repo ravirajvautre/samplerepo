@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 a
 aupdated to new
+=======
+new file on remote repo
+some more changes
+>>>>>>> 98f719a96d7094c4d110f1bf34f3c8d2cefa7af8
